@@ -32,7 +32,7 @@
 
 #### TEAM STRUCTURE
 
-1.  Have a meeting of the club, possibly, including all the club's core members.
+1.  Have a meeting of the club, possibly including all the club's core members.
     
 2.  Plan activities for next quarter. Activities such as learning, contribution, development, events or publishing.
     
