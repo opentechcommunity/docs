@@ -42,3 +42,6 @@
 1.  Sharing reflection: This may include sharing what has been learned, anything that has been achieved, interesting findings or problems/situations to be solved.
     
 2.  Cross learning: Contact with clubs of other colleges and set a date to share clubs’ knowledge either remotely or in-person. To make this meeting beneficial, define the need and purpose of the meeting very well.
+
+##### Additional note
+This ‘task framework’ is developed by Open Tech Community, with an intention to support building a career in open technologies and suggested to be followed by tech clubs inside a college/campus whose purpose is to learn and share the concept or contribute to and develop the products and services of open technologies.
